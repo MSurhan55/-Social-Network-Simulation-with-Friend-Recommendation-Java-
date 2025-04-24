@@ -1,1 +1,1 @@
-# Simple-Social-Network-Model
+Developed a console-based social network model using Java that mimics core social media behavior including user registration, friendship creation, and intelligent friend recommendations based on mutual connections. The system is designed using object-oriented principles and efficient data structures such as HashMap, HashSet, and LinkedList for relationship mapping and search optimization.
